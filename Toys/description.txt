@@ -1,0 +1,3 @@
+The folder consists of toys for data science and machine learning.
+These toys can be used as a reference implementations of data science tools.
+
